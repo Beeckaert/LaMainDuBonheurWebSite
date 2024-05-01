@@ -3,3 +3,66 @@ body{
     background-color: black;
 
 }
+
+header{
+
+    width: 100%;
+    height: 100%;
+    background-color: #5B177F;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+
+}
+
+[data-HeadFrontLiner]{
+
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(#5B177F, #171C60);
+    margin-top: 20px;
+    margin-left: 0px;
+    float: left;
+
+}
+
+[data-HeaderPreview]{
+
+    width: 100%;
+    height: calc(100% - 80px);
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+
+}
+
+[data-FullBGSRC]{
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+[data-WebsiteLogos]{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: 0px;
+    margin-left: 30px;
+    float: left;
+
+}
+
+[data-WebSiteTitle]{
+
+    font-size: 28px;
+    color: white;
+    margin-top: 8px;
+    margin-left: 20px;
+    float: left;
+
+}
